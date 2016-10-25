@@ -1,2 +1,4 @@
-# nodejs_socketcluster
-Socketcluster and react connect by React. Test Scaling
+SocketCluster Sample App
+======
+
+This is a sample SocketCluster app.
